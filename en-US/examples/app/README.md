@@ -18,3 +18,17 @@ Pacotes de terceiros
 
 - Migrations and seeders with Phinx e Faker Restaurant
 - Ignition handler error
+
+## Execute application
+
+- Copy app folder to /var/www/html or c:\xampp\htdocs
+- Create database in mysql
+- Configure in config.php
+- Execute:
+```bash
+cd app
+php vendor/bin/phinx seed:run -e development
+php vendor/bin/phinx seed:run -e development
+
+http://localhost/app
+```
