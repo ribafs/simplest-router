@@ -1,0 +1,23 @@
+{
+    "name": "ribafs/simplest-router",
+    "description": "Simplest Router PHPOO with MVC",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ribamar FS",
+            "email": "ribafs@gmail.com"
+        }
+    ],
+	"minimum-stability": "dev",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "App\\" : "App/",
+            "Core\\" : "Core/"
+        }
+    },
+    "require": {
+    }
+}
