@@ -10,12 +10,11 @@
 
 [https://github.com/ribafs/simplest-router](https://github.com/ribafs/simplest-router)
 
-## Based in
+### This routing system was created mainly from the software:
 
-This simplest, friendly and efficient has was created from the softwares:
-
-- https://github.com/nikic/FastRoute
+- https://github.com/Izamzawi/blog-php-mvc
 - https://github.com/panique/mini3
+- https://github.com/nikic/FastRoute
 
 This little routing system works well with PHPOO applications with MVC
 
