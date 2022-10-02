@@ -1,4 +1,0 @@
-#!/bin/bash
-echo 'Enter migration name'
-read mig
-php vendor/bin/phinx seed:create $mid

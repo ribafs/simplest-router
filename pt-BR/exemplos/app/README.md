@@ -11,6 +11,8 @@
 - Search
 - PDO
 - Bootstrap 5.2
+- Script para backup do mysql na pasta bin
+    php bin/backupDb
 
 Pacotes de terceiros
 
