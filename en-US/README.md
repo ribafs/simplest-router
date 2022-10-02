@@ -6,11 +6,6 @@ To applications in PHPOO with MVC
 
 [https://github.com/ribafs/simplest-router](https://github.com/ribafs/simplest-router)
 
-If you arrived here from the Gitihub page, click on the link below to access the repository
-
-[https://github.com/ribafs/simplest-router/tree/main/en-US](https://github.com/ribafs/simplest-router/tree/main/en-US)
-
-
 ## Based in
 
 This simplest, friendly and efficient has was created from the softwares:
