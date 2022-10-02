@@ -1,0 +1,5 @@
+#!/bin/bash
+echo 'Entger migration name. (Products)'
+read mig
+vendor/robmorgan/phinx/bin/phinx create $mig
+

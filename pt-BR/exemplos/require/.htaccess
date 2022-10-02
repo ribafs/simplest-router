@@ -1,5 +1,0 @@
-# Enable the mod_rewrite
-RewriteEngine on
-
-# Redirect all requests to the public/ directory
-RewriteRule ^(.*) public/$1 [L]

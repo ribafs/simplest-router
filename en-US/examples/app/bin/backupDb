@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+
+// Execute from application root
+// php bin/backupDb
+
+@require_once './Core/config.php';
+
+$file = DB_NAME.'_'.date('Y-m-d_H:i:s').'.sql';
+
+exec("mysqldump -u".DB_USER." -p".DB_PASS." ".DB_NAME." > $file");
+print PHP_EOL.'Banco criado'. PHP_EOL;

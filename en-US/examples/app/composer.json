@@ -1,0 +1,26 @@
+{
+    "name": "ribafs/simplest-router",
+    "description": "Application with Simplest Router",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ribamar FS",
+            "email": "ribafs@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "App\\" : "App/",
+            "Core\\" : "Core/"
+        }
+    },
+    "require": {
+        "robmorgan/phinx": "^0.12.12",
+        "spatie/ignition": "^1.4",
+        "jzonta/faker-restaurant": "^2.0"
+    }
+}

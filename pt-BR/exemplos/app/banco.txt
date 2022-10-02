@@ -1,0 +1,7 @@
+products
+name
+price
+
+customers
+name
+age
