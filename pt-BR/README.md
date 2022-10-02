@@ -62,6 +62,11 @@ get_class($this);
 
 die(__NAMESPACE__);
 
+## Dúvidas e sugestões tem um lugar
+
+Pode enviar dúvidas e sugestões via Issues - https://github.com/ribafs/simplest-router/issues
+
+Mas temos um lugar mais adequado e confortável no Fórum de discussão - https://github.com/ribafs/simplest-router/discussions
 
 ## Licença
 
