@@ -4,5 +4,5 @@
 
 [*Português*](pt-BR) | [*English*](en-US)
 ----------- | ----------
-!(pt.png) | !(en.png)
+<a href="pt-BR"><img src="pt.png"> | <a href="en-US"><img src="en.png">
 
