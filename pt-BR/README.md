@@ -8,7 +8,7 @@ Para aplicativos em PHPOO com MVC
 
 Caso tenha chegado aqui pela Gitihub page, clique no link abaixo para acessar o repositório
 
-[https://github.com/ribafs/simplest-router/pt-BR](https://github.com/ribafs/simplest-router/pt-BR)
+[https://github.com/ribafs/simplest-router/tree/main/pt-BR](https://github.com/ribafs/simplest-router/tree/main/pt-BR)
 
 ## Este bem simples, amigável e eficiente sistema de rotas foi criado partindo principalmente dos softwares:
 
