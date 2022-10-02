@@ -1,6 +1,6 @@
 # Simplest Router
 
-## Click to Access
+## Click to access/Clique para acessar
 
 [*Português*](pt-BR) | [*English*](en-US)
 ----------- | ----------
