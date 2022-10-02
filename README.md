@@ -39,7 +39,7 @@ http://localhost/crud-mvc/product/edit/5
     - 14.04 - PHP 5.5
 - Namespace
 - Require
-- Fixo
+- Fixed
 - MySQL/MariaDb
 - PostgreSQL
 
