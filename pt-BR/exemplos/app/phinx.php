@@ -1,4 +1,5 @@
 <?php
+require_once 'config.php';
 
 return
 [
@@ -19,12 +20,12 @@ return
             'charset' => 'utf8',
         ],
         'development' => [
-            'adapter' => 'mysql',
-            'host' => 'localhost',
-            'name' => 'router',
-            'user' => 'root',
-            'pass' => 'root',
-            'port' => '3306',
+            'adapter' => DB_TYPE,
+            'host' => DB_HOST,
+            'name' => DB_NAME,
+            'user' => DB_USER,
+            'pass' => DB_PASS,
+            'port' => DB_PORT,
             'charset' => 'utf8',
         ],
         'testing' => [

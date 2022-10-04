@@ -25,10 +25,10 @@ Pacotes de terceiros
 - Create database in mysql
 - Configure in config.php
 - Execute:
-```bash
-cd app
-php vendor/bin/phinx seed:run -e development
-php vendor/bin/phinx seed:run -e development
+
+sh migrate.sh
+
+Access
 
 http://localhost/app
-```
+

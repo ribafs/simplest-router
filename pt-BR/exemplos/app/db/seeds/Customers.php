@@ -19,7 +19,7 @@ class Customers extends AbstractSeed
         $data = [];
         for ($i = 0; $i < 100; $i++) {
             $data[] = [
-                'name'      => $faker->name,
+                'name'      => $faker->name(),
                 'age'     => $faker->numberBetween($min = 5, $max = 150)
             ];
         }
