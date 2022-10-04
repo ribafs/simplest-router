@@ -25,11 +25,11 @@ Pacotes de terceiros
 - Criar o banco no mysql
 - Configurar no config.php
 - Execute:
-```bash
-cd app
-php vendor/bin/phinx seed:run -e development
-php vendor/bin/phinx seed:run -e development
+
+sh migrate.sh
+
+Acesse
 
 http://localhost/app
-```
+
 
