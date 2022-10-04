@@ -36,7 +36,14 @@ http://localhost/crud-mvc/product/edit/5
 - MySQL/MariaDb
 - PostgreSQL
 
-## Lembre que PHP 5 não suporta
+
+## Demo
+
+http://ribamar.net.br/router/
+
+## Dicas
+
+Lembre que PHP 5 não suporta
 
 declare(strict_types = 1);
 
