@@ -41,6 +41,10 @@ http://localhost/crud-mvc/product/edit/5
 
 http://ribamar.net.br/router/
 
+## Micro Framework
+
+No exmeplo app temos a estrutura de um micro framework em PHP, com MVC e rotas, tipo aqueles criados do "zero", from scratch.
+
 ## Dicas
 
 Lembre que PHP 5 não suporta
