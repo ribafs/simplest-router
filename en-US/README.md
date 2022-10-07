@@ -44,7 +44,7 @@ http://ribamar.net.br/router/
 
 ## Micro Framework
 
-In the example *app* we have the structure of a micro framework in PHP, with MVC and routes, like those created from scratch.
+In the example **app** we have the structure of a micro framework in PHP, with MVC and routes, like those created from scratch.
 
 ## Tips
 
